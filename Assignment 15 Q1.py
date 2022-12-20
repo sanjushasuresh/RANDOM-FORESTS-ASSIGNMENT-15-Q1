@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 26 12:11:17 2022
 
-@author: LENOVO
+@author: SANJUSHA
 """
 
 # RANDOM FOREST CLASSIFIER
